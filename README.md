@@ -1,11 +1,8 @@
-Example File Reader
+Cura Profile Analyzer
 ===================
 
-This is an example file reader plug-in for Uranium. Uranium is the underlying framework used in Ultimaker Cura and NinjaKittens.
+This will allow the user to select two existing profiles, highlight the differences, and create or update a third profile if desired.
 
-File readers add support for opening certain types of files into the application. Their goal is to read the file from disk and create a scene node with the data that is represented by this file.
-
-The plug-in first creates a mesh while reading the file. This mesh is put inside a scene node and the node is returned.
 
 Packaging
 ---------
